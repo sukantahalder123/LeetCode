@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sukantahalder123/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sukantahalder123/LeetCode/tree/master/0217-contains-duplicate) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sukantahalder123/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sukantahalder123/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2727-number-of-senior-citizens](https://github.com/sukantahalder123/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -27,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sukantahalder123/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sukantahalder123/LeetCode/tree/master/0217-contains-duplicate) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sukantahalder123/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Counting
 |  |
 | ------- |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sukantahalder123/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sukantahalder123/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
