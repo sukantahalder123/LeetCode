@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sukantahalder123/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sukantahalder123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sukantahalder123/LeetCode/tree/master/0217-contains-duplicate) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sukantahalder123/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sukantahalder123/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sukantahalder123/LeetCode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sukantahalder123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
