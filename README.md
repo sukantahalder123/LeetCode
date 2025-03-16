@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sukantahalder123/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sukantahalder123/LeetCode/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sukantahalder123/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/sukantahalder123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sukantahalder123/LeetCode/tree/master/0217-contains-duplicate) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sukantahalder123/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sukantahalder123/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -32,15 +33,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sukantahalder123/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sukantahalder123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sukantahalder123/LeetCode/tree/master/0217-contains-duplicate) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sukantahalder123/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sukantahalder123/LeetCode/tree/master/0169-majority-element) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/sukantahalder123/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sukantahalder123/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sukantahalder123/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -52,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sukantahalder123/LeetCode/tree/master/0035-search-insert-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sukantahalder123/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
